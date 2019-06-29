@@ -1,1 +1,1 @@
-# Classification_Template_PyTorch
+# Classification Template [PyTorch]
