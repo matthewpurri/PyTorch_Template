@@ -1,1 +1,1 @@
-# Classification Template [PyTorch]
+# Classification & Segmentation Template [PyTorch]
