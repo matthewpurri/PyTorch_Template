@@ -9,7 +9,6 @@ from models import get_model
 # from datasets import get_dataset
 # from misc import load_config_file, get_optimizer, get_loss_func
 
-
 class Trainer():
     def __init__(self, args):
         # Load config file
