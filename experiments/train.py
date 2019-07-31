@@ -9,6 +9,7 @@ from PyTorch_Template.models import get_model
 from PyTorch_Template.datasets import get_dataset
 from PyTorch_Template.misc import load_config_file, get_optimizer, get_loss_func
 
+
 class Trainer():
     def __init__(self, args):
         # Load config file
